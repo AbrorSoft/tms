@@ -96,7 +96,7 @@ button.ui-button::-moz-focus-inner { border: 0; padding: 0; } /* reset extra pad
 .ui-datepicker .ui-datepicker-header {
 	position: relative;
 	padding: .56em 0;
-	background:#4CB320;
+	background: #2091b3;
 	color:#403f45;
 	text-transform: uppercase;
 }
